@@ -54,6 +54,38 @@ This Service may contain links to other sites. If you click on a third-party lin
 
 These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13 years of age. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do necessary actions.
 
+## Google User Data Handling
+
+### Types of Data Accessed
+This application accesses the following Google user data to provide our services:
+- Google Calendar event information (including event titles, dates and times, descriptions etc.)
+
+### Purpose of Data Use
+The Google Calendar event information we collect is used solely for the following purposes:
+- Providing task creation and management features within the app
+
+### Data Storage
+- Google Calendar data collected by the app is stored in cloud services such as Firebase to provide our services
+- Data is retained until the user deletes their account or requests data deletion
+- Users can delete their data from within the app at any time
+
+### Data Sharing
+We do not share, sell, or rent Google user data obtained through our application to third parties, except in the following cases:
+- When we have the user's explicit consent
+- When disclosure is required by law
+
+### Data Security
+We implement industry-standard security measures to protect your data from unauthorized access, alteration, and disclosure.
+
+### Limited Use of Data
+This application's use of information received from Google APIs adheres to the Google API Services User Data Policy (https://developers.google.com/terms/api-services-user-data-policy), including the Limited Use requirements.
+
+### User Rights
+Users may exercise the following rights at any time:
+- Revoke the app's access permissions through Google Account settings
+- Delete stored data from within the app
+- Contact us regarding data usage
+
 **Changes to This Privacy Policy**
 
 I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
